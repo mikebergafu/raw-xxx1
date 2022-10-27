@@ -1,0 +1,17 @@
+{
+  "name": "PHP Starter by Aparecium Labs",
+  "description": "A quick start kit for PHP based website development with an optimised Gulp build process.",
+  "repository": "https://github.com/brionmario/php-starter",
+  "logo": "https://raw.githubusercontent.com/brionmario/php-starter/master/docs/readme-resources/php-starter.svg?sanitize=true",
+  "keywords": [
+    "php",
+    "html",
+    "gulp",
+    "css",
+    "sass",
+    "responsive",
+    "apareciumlabs",
+    "starter",
+    "seed"
+  ]
+}
